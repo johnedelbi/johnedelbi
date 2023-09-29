@@ -1,8 +1,8 @@
 <!--
-**johnedelbi/johnedelbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**johnEdelbi/johnEdelbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-![banner about me](https://media.licdn.com/dms/image/D4E16AQGrDTrt1S3Dng/profile-displaybackgroundimage-shrink_350_1400/0/1670103179842?e=1684972800&v=beta&t=X2UHP_wk8cFUPYw7G5h_Elre4DtRA9UEKtdI0fStduU)
+![banner about me](https://raw.githubusercontent.com/johnedelbi/johnedelbi/main/johnedelbi-banner.jpg)
 
 
 
