@@ -17,4 +17,4 @@
 
 
 - 👯 I’m looking to collaborate on github projects.
-- 📫 How to reach me: <a href="https://linkedin.com/in/johnedelbi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johnedelbi" height="15"  /></a>
+- 📫 How to reach me: <a href="https://linkedin.com/in/john-edelbi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johnedelbi" height="15"  /></a>
