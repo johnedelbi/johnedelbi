@@ -5,6 +5,9 @@
 ![banner about me](https://raw.githubusercontent.com/johnedelbi/johnedelbi/main/johnedelbi-banner.jpg)
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnedelbi&show_icons=true&locale=en&layout=compact" alt="johnedelbi" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnedelbi&show_icons=true&locale=en" alt="johnedelbi" /></p>
 
 
 - 👯 looking to collaborate on GitHub projects.
